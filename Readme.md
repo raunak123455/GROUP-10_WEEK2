@@ -86,7 +86,7 @@ voting amount :5
 
 Transaction  :
 
-## 6- The Winning Proposal
+## 7- The Winning Proposal
 
 Ballot address used here : addr
 
